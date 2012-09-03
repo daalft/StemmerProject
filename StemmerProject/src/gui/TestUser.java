@@ -173,7 +173,7 @@ public class TestUser extends javax.swing.JPanel {
 		if (input.getText().trim().equals(gold)) {
 			analysis.setText("Gut gemacht!");
 		} else {
-			//fail
+			analysis.setText("Leider ist das nicht korrekt\nDie erwartete Antwort war: " + gold);
 		}
 	}
 }
