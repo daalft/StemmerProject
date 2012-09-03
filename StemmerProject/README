@@ -1,0 +1,16 @@
+= README
+
+== Interactive Stemmer Learner Program
+
+=== Summary
+This program is designed to help people understand how a stemmer works.
+
+=== Features
+The program contains
+* a welcome screen with instructions
+* a screen with 2 boxes and a button
+* a screen with 3 boxes and two buttons
+
+=== Function
+On the screen after the welcome screen, the user can type any text in the first box and click the button to see the stemmed output in the box below
+On the last screen, the user can click the leftmost button to get a sentence (picked from sentences.txt). They must attempt to mimic the output of the stemmer. Clicking the rightmost button will reveal whether or not the answer is correct.

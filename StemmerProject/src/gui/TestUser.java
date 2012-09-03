@@ -46,7 +46,7 @@ public class TestUser extends javax.swing.JPanel {
 	private JLabel infotext1;
 	private String sentence, gold;
 	private ArrayList<String> sentences;
-	private String path = "c:/users/david.stephan-pc/downloads/sentences.txt";
+	private String path = "./sentences.txt";
 	private Random r;
 	/**
 	* Auto-generated main method to display this 
